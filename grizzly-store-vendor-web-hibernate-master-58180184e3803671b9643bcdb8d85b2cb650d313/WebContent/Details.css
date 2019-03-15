@@ -1,0 +1,24 @@
+h2,h3,h4 {
+	text-align:center;
+	text-color:grey;
+	font-family:calibri;
+}
+
+#details h2 {
+	margin-top:0px;
+	float:left;
+	font-family:calibri;
+}
+
+#details h4 {
+	margin-top:15px;
+	text-align:right;
+	font-family:calibri;
+}
+
+#details {
+	height:30px;
+	width:100%;
+	background-color:#f3f3f3;	
+}
+	

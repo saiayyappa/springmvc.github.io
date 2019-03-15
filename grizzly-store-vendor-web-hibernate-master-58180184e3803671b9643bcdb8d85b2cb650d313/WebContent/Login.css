@@ -1,0 +1,20 @@
+body {
+text-align:center;
+margin-top:175px;
+}
+
+.textbox {
+border-radius:25px;
+border: 2px solid #cccccc;
+height:30px;
+width:200px;
+padding-left:10px;
+}
+
+#login {
+	background-color:#cccccc;
+	border-radius:25px;
+	border: 2px solid #cccccc;
+	height:30px;
+	width:80px;
+}

@@ -1,0 +1,96 @@
+table {
+	float:left;
+	border:1px white;
+	margin-top:100px;
+	margin-left:100px;
+	width:500px;
+}
+
+th,td {	
+	border:1px solid grey;
+	border-collapse:collapse;
+}
+
+#display {
+	background-color:#f3f3f3;
+	font-family:calibri;
+	height:80px;
+	width:100%;
+}
+
+#image {
+	float:left;
+}
+
+#image2 {
+	float:left;
+	margin-top:22px;
+	margin-left:50px;
+}
+
+strong {
+	font-family:calibri;
+	font-size:35px;
+	float:left;
+	margin-left:36px;
+	margin-top:60px;
+}
+
+#display h3 {
+	position:relative;
+	float:left;
+	margin-left:45%;
+	margin-top:25px;
+}
+
+#display input {
+	position: relative;
+	float:right;
+	font-family:calibri;
+	font-size:20px;
+	margin-top:22px;
+	margin-right:22px;;
+	background-color:#b7b7b7;
+	border-radius:25px;
+	border: 2px solid #b7b7b7;
+	height:30px;
+	width:100px;
+}
+
+#iframe {
+	float:left;
+	margin-top:40px;
+	margin-left:30px;
+}
+
+#iframe2 {
+	float : right;
+	margin-top:40px;
+	margin-left:30px;
+}
+
+#add {
+	float:right;
+	margin-top:65px;
+	margin-right:70px;
+	font-family:calibri;
+	font-size:20px;
+	background-color:#b7b7b7;
+	border-radius:25px;
+	border: 2px solid #b7b7b7;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#display #search {
+	float:left;
+	background-color:#ffffff;
+	margin-left:60px;
+	border-radius:none;
+	width:300px;
+	padding-left:10px;
+}
+
+#products {
+	float:left;
+}
